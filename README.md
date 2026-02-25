@@ -111,3 +111,27 @@ If you finish early or want an extra challenge, try one of these:
 - Stay curious. The unpredictability is intentional and part of the experience.
 
 When you finish, Playlist Chaos will feel more predictable, and you will have taken your first steps into AI-assisted debugging.
+
+---
+
+# TF Summary
+
+## Core concepts
+- Testing / bug hunting
+- Functions and parameters
+- Custom objects
+- Prompt engineering
+- Version history
+
+## Most likely to struggle
+- Installing streamlit
+
+## AI helpful vs misleading
+- AI is helpful when the scope is small and specific
+- AI can be misleading if the scope is too large and broad
+
+## Guide a student
+- Did you notice any unexpected behaviors while using the app?
+- Can you find which function(s) is responsible for handling that feature?
+- Did you ask the AI specific questions about the behavior and the function?
+- Did you implement any AI suggestions and analyzed how it impacted the app?
